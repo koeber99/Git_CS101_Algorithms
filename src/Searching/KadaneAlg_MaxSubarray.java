@@ -1,3 +1,4 @@
+package Searching;
 
 public class KadaneAlg_MaxSubarray {
 //Find Largest Sum Contiguous Subarray	
